@@ -1,0 +1,3 @@
+
+class InvalidMigrationPlan(ValueError):
+    pass
